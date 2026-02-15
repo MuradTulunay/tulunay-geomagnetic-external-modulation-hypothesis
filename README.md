@@ -76,5 +76,5 @@ If you reference this work:
 ```
 Tulunay, M. (2026). External Modulation of Geomagnetic Secular Variation: 
 A Hypothesis on Solar Wind Coupling, The May 2024 Storm, and the Tesla Circuit. 
-GitHub: https://github.com/[YOUR_USERNAME]/tulunay-geomagnetic-external-modulation-hypothesis
+GitHub: https://github.com/MuradTulunay/tulunay-geomagnetic-external-modulation-hypothesis
 ```
