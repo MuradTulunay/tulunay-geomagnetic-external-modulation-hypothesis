@@ -34,8 +34,8 @@ Generating Earth's full ~50 μT field from a single ionospheric current loop wou
 ```
 ├── README.md                          # This file
 ├── paper/
-│   ├── External_Modulation_Hypothesis_v2.pdf   # Full paper (PDF)
-│   └── External_Modulation_Hypothesis_v2.docx  # Full paper (Word)
+│   └── External_Modulation_Hypothesis_v2.pdf   # Full paper (PDF)
+│   
 ├── simulation/
 │   └── magnetopause_pressure_balance.py        # Python simulation code
 └── LICENSE
